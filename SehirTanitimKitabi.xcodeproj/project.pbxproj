@@ -13,6 +13,8 @@
 		E43AF26D29B1B459006C7443 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E43AF26B29B1B459006C7443 /* Main.storyboard */; };
 		E43AF26F29B1B45A006C7443 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E43AF26E29B1B45A006C7443 /* Assets.xcassets */; };
 		E43AF27229B1B45A006C7443 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E43AF27029B1B45A006C7443 /* LaunchScreen.storyboard */; };
+		E43AF27A29B1B53F006C7443 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E43AF27929B1B53F006C7443 /* DetailsViewController.swift */; };
+		E43AF27C29B238D9006C7443 /* Sehir.swift in Sources */ = {isa = PBXBuildFile; fileRef = E43AF27B29B238D8006C7443 /* Sehir.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		E43AF26E29B1B45A006C7443 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E43AF27129B1B45A006C7443 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E43AF27329B1B45A006C7443 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E43AF27929B1B53F006C7443 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
+		E43AF27B29B238D8006C7443 /* Sehir.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sehir.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				E43AF26E29B1B45A006C7443 /* Assets.xcassets */,
 				E43AF27029B1B45A006C7443 /* LaunchScreen.storyboard */,
 				E43AF27329B1B45A006C7443 /* Info.plist */,
+				E43AF27929B1B53F006C7443 /* DetailsViewController.swift */,
+				E43AF27B29B238D8006C7443 /* Sehir.swift */,
 			);
 			path = SehirTanitimKitabi;
 			sourceTree = "<group>";
@@ -141,6 +147,8 @@
 				E43AF26A29B1B459006C7443 /* ViewController.swift in Sources */,
 				E43AF26629B1B459006C7443 /* AppDelegate.swift in Sources */,
 				E43AF26829B1B459006C7443 /* SceneDelegate.swift in Sources */,
+				E43AF27A29B1B53F006C7443 /* DetailsViewController.swift in Sources */,
+				E43AF27C29B238D9006C7443 /* Sehir.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
